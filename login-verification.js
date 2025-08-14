@@ -1,5 +1,5 @@
 // =================================================================================
-// CONFIGURAÇÃO - USE AS MESMAS CHAVES DO OUTRO ARQUIVO JS
+// CONFIGURAÇÃO - AQUI TAMBÉM COLOCA A JAVA DE API, A MESMA DO CEREBRO
 // =================================================================================
 const SUPABASE_URL = 'SUA_URL_SUPABASE';
 const SUPABASE_ANON_KEY = 'SUA_CHAVE_ANON_SUPABASE';

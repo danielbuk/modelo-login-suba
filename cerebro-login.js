@@ -1,5 +1,5 @@
 // =================================================================================
-// CONFIGURAÇÃO - COLOQUE SUAS CHAVES DO SUPABASE AQUI
+// CONFIGURAÇÃO - AQUI QUE EU COLOCO AS CHAVES DE API!
 // =================================================================================
 const SUPABASE_URL = 'SUA_URL_SUPABASE'; // Encontrado em: Project Settings > API > Project URL
 const SUPABASE_ANON_KEY = 'SUA_CHAVE_ANON_SUPABASE'; // Encontrado em: Project Settings > API > Project API Keys > anon public
