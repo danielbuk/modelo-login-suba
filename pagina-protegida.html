@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Painel de Controle</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <style>body { font-family: sans-serif; }</style>
+</head>
+<body>
+
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <h1>Painel Protegido</h1>
+        <button id="logout-button">Sair</button>
+    </div>
+    <hr>
+
+    <div id="conteudo-protegido">
+        <p>Verificando permissão e carregando dados...</p>
+    </div>
+
+    <script src="js/dashboard.js"></script>
+
+</body>
+</html>
